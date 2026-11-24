@@ -29,6 +29,14 @@ A Python-based AI Voice Assistant built using Python and Gemini API.
 
 🔗 [View JARVIS Project](https://github.com/yourparesh/JARVIS-AI-ASSISTANT)
 
+
+# Excel Report Automation System
+
+A Python-based project that automates Excel report generation using Pandas and OpenPyXL.
+https://github.com/yourparesh/Excel-Report-Automation-System.git
+
+
+
 ---
 
 ## 📚 Currently Learning
